@@ -1,1 +1,0 @@
-import{d as t,B as o,b as a,c,C as n,l as r}from"./entry.P6kkQL5e.js";const d={class:"col-span-x"},l=t({__name:"Column",props:{width:{type:Number,default:1}},setup(s){return o(e=>({"53c99518":s.width})),(e,_)=>(a(),c("div",d,[n(e.$slots,"default",{},void 0,!0)]))}}),u=r(l,[["__scopeId","data-v-b1031cd8"]]);export{u as default};

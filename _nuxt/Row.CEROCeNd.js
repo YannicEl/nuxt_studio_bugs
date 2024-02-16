@@ -1,1 +1,0 @@
-import{d as o,B as t,b as a,c,C as r,l as n}from"./entry.P6kkQL5e.js";const d={class:"grid-cols-x"},l=o({__name:"Row",props:{columns:{type:Number,default:1}},setup(e){return t(s=>({"7df507f7":e.columns})),(s,_)=>(a(),c("div",d,[r(s.$slots,"default",{},void 0,!0)]))}}),p=n(l,[["__scopeId","data-v-1cab6289"]]);export{p as default};
